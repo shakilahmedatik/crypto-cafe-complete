@@ -51,4 +51,3 @@ Starter Template: [https://github.com/shakilahmedatik/crypto-cafe-starter](https
 4. Requirement Doc: [https://docs.google.com/document/d/1lqqNGPWOwLkiHWxXZiUeQcckQ-H0U-Lv4p_dtvFkqz0/edit?usp=sharing](https://docs.google.com/document/d/1lqqNGPWOwLkiHWxXZiUeQcckQ-H0U-Lv4p_dtvFkqz0/edit?usp=sharing)
 
 
-
