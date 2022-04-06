@@ -49,5 +49,3 @@ Starter Template: [https://github.com/shakilahmedatik/crypto-cafe-starter](https
 3. Demo Site: [https://crypto-cafe.netlify.app](https://crypto-cafe.netlify.app)
 
 4. Requirement Doc: [https://docs.google.com/document/d/1lqqNGPWOwLkiHWxXZiUeQcckQ-H0U-Lv4p_dtvFkqz0/edit?usp=sharing](https://docs.google.com/document/d/1lqqNGPWOwLkiHWxXZiUeQcckQ-H0U-Lv4p_dtvFkqz0/edit?usp=sharing)
-
-
